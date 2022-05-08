@@ -1,7 +1,7 @@
 {
   "targets": [
     {
-      "target": "https://egais.ru",
+      "target": "https://check.egais.ru",
       "rpc": 100,
       "connections": 550,
       "method": "GET"
