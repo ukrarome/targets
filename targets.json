@@ -1,13 +1,13 @@
 {
   "targets": [
     {
-      "target": "https://check.egais.ru",
+      "target": "https://212.164.137.246",
       "rpc": 100,
       "connections": 550,
       "method": "GET"
     },
     {
-      "target": "https://seller.ozon.ru/",
+      "target": "https://178.248.238.157/",
       "rpc": 100,
       "connections": 550,
       "method": "GET"
