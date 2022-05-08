@@ -1,13 +1,13 @@
 {
   "targets": [
     {
-      "url": "https://egais.ru",
+      "target": "https://egais.ru",
       "rpc": 100,
       "connections": 500,
       "method": "GET"
     },
     {
-      "url": "https://avia.ozon.ru/",
+      "target": "https://avia.ozon.ru/",
       "rpc": 100,
       "connections": 500,
       "method": "GET"
