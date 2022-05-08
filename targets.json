@@ -7,7 +7,7 @@
       "method": "GET"
     },
     {
-      "target": "https://avia.ozon.ru/",
+      "target": "https://seller.ozon.ru/",
       "rpc": 100,
       "connections": 550,
       "method": "GET"
