@@ -3,13 +3,13 @@
     {
       "target": "https://egais.ru",
       "rpc": 100,
-      "connections": 500,
+      "connections": 550,
       "method": "GET"
     },
     {
       "target": "https://avia.ozon.ru/",
       "rpc": 100,
-      "connections": 500,
+      "connections": 550,
       "method": "GET"
     }
   ]
