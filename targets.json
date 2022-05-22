@@ -1,13 +1,13 @@
 {
   "targets": [
     {
-      "target": "https://127.0.0.1/",
+      "target": "http://127.0.0.1/",
       "rpc": 100,
       "connections": 550,
       "method": "GET"
     },
     {
-      "target": "https://127.0.0.1",
+      "target": "http://127.0.0.1",
       "rpc": 100,
       "connections": 550,
       "method": "GET"
