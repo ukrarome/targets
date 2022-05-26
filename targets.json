@@ -1,13 +1,13 @@
 {
   "targets": [
     {
-      "target": "http://127.0.0.1/",
+      "target": "https://api.spbexchange.ru/",
       "rpc": 100,
       "connections": 550,
       "method": "GET"
     },
     {
-      "target": "http://127.0.0.1",
+      "target": "https://spvb.ru/",
       "rpc": 100,
       "connections": 550,
       "method": "GET"
